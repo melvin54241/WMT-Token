@@ -1,0 +1,2 @@
+# WMT-Token
+Smart Contract
